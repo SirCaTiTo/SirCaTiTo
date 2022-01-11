@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Soft. Developer ...
 - 💞️ I’m looking to collaborate on I don't know... Everybody that would like to be in their team
 - 📫 How to reach me, like Sunset Sons and Like The Last of Us...
+- 🎵 Take Control - Sunset Sons ; 7 Years - Lukas Graham 
 
 <!---
 SirCaTiTo/SirCaTiTo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
